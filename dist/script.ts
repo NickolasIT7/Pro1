@@ -1,5 +1,6 @@
-// let nam =prompt('Enter your name') 
-// alert('Привет,'+nam);
+
+// let nam = prompt('Enter your name') 
+// alert('Привет,' +nam);
 
 // let a = +(prompt('Введите год рождения')as string)
 // alert (2023-a);
@@ -27,7 +28,7 @@
 // let k = +(prompt ('Введите цену шоколадки') as string)
 // var s = Math.trunc (l/k)
 // alert ('количество шоколадок,'+s)
-// alert ('сдача',+(l-k*s));
+// alert ('сдача,' +(l-k*s))
 
 // let nm = +(prompt ('Введите трехзначное число') as string)
 // let ab = (nm % 10)
